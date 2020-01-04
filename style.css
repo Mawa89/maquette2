@@ -1,0 +1,208 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(media/mastehead.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+
+.logo img{
+ width: 30px; 
+ margin: 5px; 
+}
+
+.logo p{
+    color: white; 
+    display: inline-block; 
+
+}
+
+
+.header{
+    margin-top: 300px;
+    margin-left: 250px; 
+
+}
+
+.header p{
+    max-width: 350px;
+    font-size: 10px;
+}
+
+.iphone{
+    position: absolute;
+    margin-left: 670px;
+    margin-top: -240px;
+}
+
+.something h2{
+    position: absolute;
+    top: 730px;
+    left: 17px;
+    color: rgb(22, 22, 22);
+    
+}
+
+.something p{
+    position: absolute;
+    color: rgb(109, 109, 109); 
+    max-width: 400px;
+    top: 800px;
+    left: 12px;
+    font-size: 15px;
+}
+
+.right-text{
+    position: absolute;
+    color: rgb(109, 109, 109); 
+    top: 850px;
+    left: 520px;
+    max-width: 400px;
+    font-size: 15px;
+}
+
+.row1{
+    position: absolute;
+    margin-top: 590px;
+    display: flex;
+    flex-direction: row;
+    background: black;
+    margin-left: 200px;
+}
+
+.row1 p{
+    font-size: 10px; 
+    padding: 10px;
+}
+
+.row1 .pink{
+    background: rgb(218, 122, 138); 
+    height: 190px;
+    width: 300px;
+}
+
+.row1 .gray{
+    background: rgb(109, 109, 109);
+    height: 190px;
+    width: 300px;
+}
+
+.row1 .ski{
+    background: url(media/box-bg.jpg);
+    background-size: cover; 
+    height: 190px;
+    width: 300px;
+
+}
+
+.row2{
+    position: absolute; 
+    display: flex;
+    flex-direction: row; 
+    margin-top: 780px;
+    display: flex;
+    flex-direction: row;
+    background: black;
+    margin-left: 200px;
+    height: 190px;
+}
+
+.row2 p{
+    font-size: 10px; 
+    padding: 10px;
+}
+
+.row2 .sunset{
+    background: url(media/box-bg-lg.jpg);
+    background-size: cover;
+    width: 600px;
+}
+
+.row2 .green{
+    background-color: rgb(94, 192, 94);
+    width: 300px;
+}
+
+.details-title{
+    color: rgb(54, 54, 54);
+    position: absolute;
+    margin-top: 980px;
+    margin-left: 50px;
+}
+
+.details{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    margin-top: 1000px;
+    color: rgb(47, 47, 47);
+    font-size: 12px;
+    padding: 50px;
+}
+
+.power img{
+    position: absolute;
+    width: 100%;
+    background-size: cover;
+    margin-top: 1200px;
+    }
+
+    .power h1{
+        position: absolute;
+        margin-top: 1510px;
+        margin-left: 250px;
+        font-size: 35px;
+    }
+
+    .power p{
+        position: absolute;
+        margin-top: 1600px;
+        font-size: 12px;
+        margin-left: 250px;
+        max-width: 400px;
+    }
+
+    .power h5{
+        position: absolute;
+        margin-top: 1670px;
+        font-size: 12px;
+        margin-left: 250px;
+        max-width: 400px;
+    }
+
+    .greenspace{
+        position: absolute;
+        height: 500px;
+        width: 100%;;
+        background: rgb(91, 207, 139);
+        margin-top: 1700px;
+        padding-left: 120px;
+    }
+
+    .greenspace h2{
+        margin-left: 20px;
+        margin-top: 50px;
+    }
+
+    .greens{
+        display: flex;
+        flex-direction: row;
+        padding: 10px;
+    }
+
+    .greens p{
+        font-size: 12px;
+        max-width: 300px;
+    }
+
+    .doublecard{
+        position: absolute;
+        background-color: white;
+        height: 500px; 
+        width: 100%;
+        margin-top: 2050px;
+    }
